@@ -1,0 +1,28 @@
+/* Navigation bar */
+
+body{
+    margin: 0;
+}
+.main{
+    background-color: rgb(242, 133, 43);
+}
+.first{
+    list-style-type: none ;
+    overflow: hidden;
+    height: 8vh;
+}
+.navlink{
+    color:rgb(10, 15, 10);
+    float: left;
+    padding: 1%;
+    text-decoration: none;
+    transition-duration: 0.90s;
+}
+.navlink:hover{
+    color: whitesmoke;
+    font-size: 3vh;
+    text-shadow: 1px 1px .5px ;
+}
+.mainshirt{
+    margin-left: 25vw;
+}

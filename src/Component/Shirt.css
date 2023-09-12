@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin-top: 1;
+
+}
+.card-group{
+    margin: 5;
+    padding: 5;
+    display: flex;
+}
+.card{
+    margin: 0;
+    padding: 0;
+}
